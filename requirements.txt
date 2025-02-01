@@ -1,7 +1,6 @@
 geopandas
 matplotlib
 numpy
-os
 pandas
 rasterio
 requests
